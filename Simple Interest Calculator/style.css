@@ -1,0 +1,34 @@
+
+body 
+    {
+    background-color:White; 
+    color:Yellow; 
+    font:arial;
+    }
+
+h1
+    {
+    color:Yellow; 
+    font:verdana;
+    text-align: center;
+    font-size:30px;
+    }
+
+.maindiv 
+    { 
+    text-indent: 10px;
+    margin:0 auto;
+    background-color:white; 
+    color:Yellow; 
+    font:arial;
+    width:300px;
+    padding:20px;
+    border-radius:25px;
+    }
+
+    label
+    {
+    width:100px;
+    display: inline-block;
+    } 
+
